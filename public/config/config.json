@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x90b084f9998C701D3e927af4f0471347BE730a95",
+  "SCAN_LINK": "https://testnet-explorer.canto.neobase.one/token/0xAE9e6945Ba1A41Ad5EFA68B4476fC121c8B0DB76/token-transfers",
+  "NETWORK": {
+    "NAME": "CANTO",
+    "SYMBOL": "CANTO",
+    "ID": 740
+  },
+  "NFT_NAME": "Disruptor",
+  "SYMBOL": "DRT",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Alto",
+  "MARKETPLACE_LINK": "https://alto.build/collections/Disruptor",
+  "SHOW_BACKGROUND": true
+}
